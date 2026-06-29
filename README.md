@@ -79,7 +79,6 @@ repo_explainer/
 │
 └── src/
 │   ├──embedding_model
-│   ├──req
 │   ├──vector_store
 ```
 
