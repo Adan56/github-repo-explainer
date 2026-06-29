@@ -56,7 +56,7 @@ Repository-Aware Answer + Sources
 ```text
 repo_explainer/
 │
-├── ingestion/
+├── input/
 │   ├── github_loader.py
 │   └── file_reader.py
 │
@@ -76,6 +76,11 @@ repo_explainer/
 ├── main.py
 ├── requirements.txt
 └── README.md
+│
+└── src/
+│   ├──embedding_model
+│   ├──req
+│   ├──vector_store
 ```
 
 ---
